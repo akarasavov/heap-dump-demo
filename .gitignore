@@ -1,3 +1,10 @@
+.idea/
+*.iml
+*.hprof
+target/
+
+# end::[]
+
 # Compiled class file
 *.class
 
