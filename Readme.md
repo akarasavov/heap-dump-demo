@@ -1,5 +1,6 @@
 # Heap dump demo
 This application takes a heap dump when Java process is killed.
+
 In this demo application process will be killed because of OOM.
 
 ## Requirements
